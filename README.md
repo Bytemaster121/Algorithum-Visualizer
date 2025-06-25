@@ -26,14 +26,6 @@ A dynamic and interactive web-based **Algorithm Visualizer** that helps users un
 
 ---
 
-## 📸 Demo
-
-> Add a deployed GitHub Pages or Netlify link here (optional)
-
-![Demo GIF or screenshot](link-to-screenshot-or-gif)
-
----
-
 ## 🚀 Technologies Used
 
 <p align="left">
